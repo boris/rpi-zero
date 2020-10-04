@@ -11,6 +11,7 @@ Tools
 2. `DHT22`_ temperature/humidity sensor
 3. Python 3.8.1
 4. Flask
+5. python3-libgpiod (or the one used in your distro)
 
 Roadmap
 -------
