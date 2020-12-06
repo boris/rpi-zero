@@ -1,1 +1,4 @@
 adafruit-circuitpython-dht
+Flask
+prometheus-client
+Werkzeug
